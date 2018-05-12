@@ -1,0 +1,27 @@
+_repo: A-History-of-Bibliographies-of-Bibliographies_46414
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 46414-h/images/cover-page.jpg
+creator:
+  author:
+    agent_name: Taylor, Archer
+    birthdate: 1890
+    deathdate: 1973
+    gutenberg_agent_id: '39970'
+    url: http://www.gutenberg.org/2009/agents/39970
+description: ''
+gutenberg_issued: '2014-07-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '46414'
+  lccn: '55013727'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Bibliography of bibliographies -- History'
+- !lcc 'Z'
+title: A History of Bibliographies of Bibliographies
+url: http://www.gutenberg.org/ebooks/46414
